@@ -48,11 +48,11 @@ Remove above line of code in `values/styles/styles.xml(v21)`
   
     You need a proper App icon with different DPI levels, a frame graphic and an appstore icon. Each of the resolution details are mentioned below.
     
-    Name | DPI | Multiplier | Resolution
-    ----|----|----|----
-    mdpi | 160 | 1x | 48 * 48
-    hdpi | 240 | 1.5x | 72 * 72
-    xhdpi | 320 | 2x | 144 * 144
-    xxhdpi | 480 | 3x | 192 * 192
-    xxxhdpi | 640 | 4x | 512 * 512
-    frame graphic | - | - | 1024 * 500
+    | Name | DPI | Multiplier | Resolution |
+    |----|----|----|----|
+    | mdpi | 160 | 1x | 48 * 48|
+    | hdpi | 240 | 1.5x | 72 * 72|
+    | xhdpi | 320 | 2x | 144 * 144 |
+    | xxhdpi | 480 | 3x | 192 * 192 |
+    | xxxhdpi | 640 | 4x | 512 * 512 |
+    | frame graphic | - | - | 1024 * 500|
