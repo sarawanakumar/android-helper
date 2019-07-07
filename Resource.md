@@ -37,7 +37,7 @@ Remove above line of code in `values/styles/styles.xml(v21)`
   
 ## Android App Release process
   
-  You need a key store and secure key. For the first time when you want to create a release APK, You can create one witht the help of Android Studio. 
+  The aab/apk that you want to release to appstore must be signed with a cryptographic key. For that, you need a key store and secure key. For the first time when you want to create a release APK, You can create one witht the help of Android Studio. 
   - Tap `Build > Generate Signed Bundle/APK`
   - Under key store path, select `Create New KeyStore`
   - Choose path where you want to store the key store and create a secure password
