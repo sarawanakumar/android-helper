@@ -58,7 +58,7 @@ Remove above line of code in `values/styles/styles.xml(v21)`
     | frame graphic | x | x | 1024 * 500 |
     
 
-##Worker Manager
+## Worker Manager
 https://towardsdatascience.com/working-with-android-workmanager-using-kotlin-36167a143579
 
 
